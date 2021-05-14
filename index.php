@@ -1,1 +1,1 @@
-<?php include_once("blog.html"); ?>
+<?php include_once("Головна.html"); ?>
